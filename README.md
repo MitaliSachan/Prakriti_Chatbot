@@ -9,4 +9,4 @@ eventually help them in living a good and healthy life.
 ![image](https://github.com/MitaliSachan/Prakriti_Chatbot/assets/95533074/4e30b4f4-8b5d-4106-9bc3-28f050b7acb6)
 
 
-<img width="221" alt="image" src="https://github.com/MitaliSachan/Prakriti_Chatbot/assets/95533074/1f083f59-5358-41c4-8413-55171362d643">
+<img width="421" alt="image" src="https://github.com/MitaliSachan/Prakriti_Chatbot/assets/95533074/1f083f59-5358-41c4-8413-55171362d643">
