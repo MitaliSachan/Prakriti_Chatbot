@@ -1,0 +1,90 @@
+{"intents": [
+  { 
+    "tag": "greeting",
+    "patterns": [ "Hello", "Hi there", "Good morning",  "What's up"],
+    "responses": [  "Hey!",  "Hello", "Hi!", "Good morning!"]
+},
+{  "tag": "prakriti",
+    "patterns": [ "prakriti in ayurveda","what is prakriti", "what do you mean by prakriti"],
+    "responses": ["Prakriti is a fundamental construct of Ayurveda, which primarily mean a body type or. individual nature. Prakriti is the sense of personality or constitution or temperament of an. individual."]
+  },
+  { "tag": "noanswer",
+    "patterns": [""],
+    "responses": ["Sorry, can't understand you", "Please give me more info", "Not sure I understand" ]
+  },
+  {
+    "tag": "types",
+    "patterns": ["types of prakriti", "what are different types of prakriti"],
+    "responses": ["There are 7 types of Sharirika Prakriti:1> Vata Prakriti ,2> Pitta Prakriti,3> Kapha Prakriti,4> Vata Pitta Prakriti,5> Pitta Kapha Prakriti,6> Kapha Vata Prakriti,7> Tridosha"]
+  },
+  {
+    "tag": "importance",
+    "patterns": ["What is prakriti needed",  "what is its importance",  "Why do we need to determine our prakriti"],
+    "responses": ["It plays a vital role in prognosis, diagnosis, treatment and prevention of many diseases.","It plays an important role in the selection and establishment of every factor for which a person is going to interact from conception till death, e.g. lifestyle, diet planning, etc."]
+  },
+  {
+    "tag": "vata",
+    "patterns": ["What is vata prakriti", "vata in ayurveda"],
+    "responses": ["The main qualities of vata are dry, light, cool, rough, subtle, and mobile. So, having a vata-predominant prakriti means that these qualities express themselves generously throughout your mental, emotional, and physical make up.","The word Vata means to blow or to move like the wind. Containing the elements like air and space, Vata manages all the movements in the mind and body. It controls blood flow, evacuation of wastes, breathing and the movement of thoughts across the brain. Vata is dry, cold, light, moving, changeable, subtle, rough and quick."]
+  },
+  {
+    "tag": "pitta",
+    "patterns": ["What is pitta prakriti", "pitta in ayurveda" ],
+    "responses": [ "Ayurveda states that Pitta controls heat, metabolism and transformation in the mind and body. Pitta controls the essential digestive “Agni” or fire of the body","The main qualities of pitta are oily, sharp, hot, light, fleshy smelling, spreading, and liquid. So, having a pitta-predominant prakriti means that these qualities express themselves generously throughout your mental, emotional, and physical make up."]
+  },
+  {
+    "tag": "kapha",
+    "patterns": [ "What is kapha prakriti", "kapha in ayurveda"],
+    "responses": ["Kapha is essentially composed out of earth and water components. It is heavy, slow, cool, sleek, smooth, delicate, thick, stable, gross, and cloudy. Kapha provides structure and robustness to all things; it gives the cohesiveness needed to maintain a particular form","The kapha body is physically solid, compact and wide with extensive thighs, hips, bums, and chest and has a tendency to be perpetually overweight. Kapha types ordinarily have large, appealing eyes that are blue or dark in color. Their skin is fair, cool and always glowing."]
+  },
+  {
+    "tag": "kapha region",
+    "patterns": [  "what is the region of kapha in human body", "predominant region of kapha " ],
+    "responses": ["kapha above the clavicle is the predominant region in human body"]
+  },
+  {
+    "tag": "pitta region",
+    "patterns": ["what is the region of pitta in human body", "predominant region of pitta" ],
+    "responses": ["predominant region for pitta is between the clavicle and navel." ]
+  },
+  {
+    "tag": "vata region",
+    "patterns": [ "what is the region of vata in human body", "predominant region of vata"],
+    "responses": [  "predominant region of vata is below the navel."  ]
+  },
+  {
+    "tag": "kapha quality",
+    "patterns": [  "What are the qualities of kapha prakriti",
+      "kapha prakriti qualities" ],
+    "responses": [ "1) Large, broad body frame ,2) Moderate appetite ,3) Deep and sound sleep ,4) Pleasant & deep voice ,5) Moderate sweating ,6) Good Stamina and Low Thirst ,7) Calm & Polite Nature ,8) Tendency to gain weight ,9) Smooth & glossy skin" ]
+  },
+  {
+    "tag": "pitta quality",
+    "patterns": [  "What are the qualities of pitta prakriti",
+      "pitta prakriti qualities"  ],
+    "responses": [ "Qualities of Pitta Dosha: 1) Pungent ,2) Light ,3) Hot ,4) Sharp ,5) Acidic ,6) Intense ,7) Penetrating"]
+  },
+  {
+    "tag": "vata quality",
+    "patterns": [  "What are the qualities of vata prakriti",
+      "vata prakriti qualities"
+    ],
+    "responses": ["A balance of vata in the body brings comfortable movement, regular breathing, a consistent appetite, normal bowel function, positive enthusiasm, healthy desire, good energy, a calm mind and inspirational creativity."]
+  },
+  {
+    "tag": "wait",
+    "patterns": [ "Can you wait 2 minutes",  "Please wait", "Wait 2 secs please" ],
+    "responses": [ "Sure! I wait."  ]
+  },
+  {
+    "tag": "goodbye",
+    "patterns": [   "Goodbye",  "Good afternoon", "Bye"   ],
+    "responses": [  "Goodbye!",  "See you soon!" ]
+  },
+  {
+    "tag": "still there",
+    "patterns": [  "Are you still there?", "Are you here?"],
+    "responses": [ "Of course! Always at your service." ]
+  }
+   ]
+}
